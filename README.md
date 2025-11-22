@@ -4,6 +4,7 @@ in the future. I am confident that I am very inquisitive
 - 🌱 I’m always eager to learn Java, dive into lots of new technologies in Spring Framework and advanced technologies and Typescript for Front-end Knowledge.
 - Project:
 - (Full stack Library Application)[https://github.com/thanhduy1911/fullstack-library-app]
+- Currently working on a blog engine platform with multiple purposes...
 <!---
 thanhduy1911/thanhduy1911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
