@@ -2,7 +2,7 @@
 
 I am a Junior Java Backend Developer with a background as an SAP Technical Consultant (Business ByDesign) and over 3 years of experience in enterprise systems, API integration, and backend development.
 
-I am currently working at LAK Solutions, where I am onboarding into a microservices-based backend system using Java 21, Spring Boot, Scala, and cloud-native technologies. My focus is on writing clean, maintainable, and production-ready backend code, while continuously improving my understanding of system design, performance, and scalability.
+I am currently working at *** Solutions, where I am onboarding into a microservices-based backend system using Java 21, Spring Boot, Scala, and cloud-native technologies. My focus is on writing clean, maintainable, and production-ready backend code, while continuously improving my understanding of system design, performance, and scalability.
 
 ### 👀 Interests & Career Focus
 
